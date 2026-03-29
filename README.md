@@ -125,13 +125,13 @@ The platform implements various security measures:
 Simple API documentation is available in OpenAPI/Swagger format:
 
 - Development: `http://localhost:3000/api/v1/docs`
-- Production: `https://api.ragab.shop/api/v1/docs`
+- Production: `https://api.nabza.online/api/v1/docs`
 
 ## 🎯 Frontend Links
 
 The frontend application is built with Next.js and is available:
 
 - live at:
-  https://www.ragab.shop or https://nabza-platform.vercel.app
+  https://www.nabza.online or https://nabza-platform.vercel.app
 - repo at:
   https://github.com/ragab0/nabza-platform

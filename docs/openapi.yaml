@@ -22,7 +22,7 @@ info:
     - Password reset: 5 requests per hour
 
 servers:
-  - url: https://www.api.ragab.shop/
+  - url: https://www.api.nabza.online/
   - url: http://localhost:3000
     description: Local development
 
